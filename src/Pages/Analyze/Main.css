@@ -1,0 +1,48 @@
+.Cert {
+  background-color: rgba(199, 219, 250, 0.486);
+  border-radius: 15px;
+  box-shadow: 10px 10px 50px  rgba(224, 224, 224, 0.61);
+
+  display: flex;
+  align-items: center;
+  padding: 5%;
+  
+  margin: 1.5%;
+  overflow-x: hidden;
+  margin-bottom: 5%;
+}
+
+.summary-heading {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+
+  color: rgb(90, 48, 156);
+  text-shadow: 4px 4px #a3e0fc;
+  font-style: italic;
+  font-weight: 900;
+  font-size: 1.8em;
+  padding-top: 20px;
+  padding-right: 7px;
+  margin: 2%;
+  
+}
+
+.context {
+  text-align: justify;
+  font-weight: 500;
+  /*background-color: rgb(64, 148, 216);*/
+  color: rgb(90, 48, 156);
+  border-radius: 15px;
+  
+  padding: 30px;
+}
+
+.Cert-box{
+  background-color: white ;
+  margin: 3%;
+  box-shadow: 4px 4px 4px rgba(233, 231, 231, 0.781);
+  border-radius: 12px;
+  display: flexbox;
+  justify-content:space-evenly;
+  align-items: center;
+}

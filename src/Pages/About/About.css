@@ -1,0 +1,14 @@
+.about-container {
+  padding: 5%;
+}
+
+.about-container h3 {
+  font-weight: 400;
+  font-style: bold;
+}
+
+.about-container h5 {
+  font-weight: 400;
+  font-style: bold;
+  padding-bottom: 2%;
+}

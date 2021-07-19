@@ -1,0 +1,33 @@
+* {
+  overflow-x: hidden;
+}
+
+.know {
+  font-weight: 900;
+  font-size: 96px;
+  color: black;
+  margin-bottom: -10;
+}
+.your {
+  padding-top: -15px;
+  font-weight: 300;
+  font-size: 24px;
+  color: black;
+}
+
+.col-headingF {
+  padding-top: 200px;
+}
+
+.typography-text {
+  color: #7a72b3;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  padding: 10%;
+}
+.shadow {
+  -moz-box-shadow:    inset 0 0 15px #000000;
+  -webkit-box-shadow: inset 0 0 15px #000000;
+  box-shadow:         inset 0 0 15px #000000;
+}
